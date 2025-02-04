@@ -2,7 +2,7 @@ body {
     font-family: Helvetica, sans-serif;
     margin: 0;
     padding: 50px;
-    background-image: url('mainbg.jpg'); /* Replace with your image filename */
+    background-image: url('images/mainbg.jpg'); /* Replace with your image filename */
     background-size: cover; /* Ensure the image covers the entire screen */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent repeating */
