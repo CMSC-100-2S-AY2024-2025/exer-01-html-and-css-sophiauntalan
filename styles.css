@@ -1,3 +1,5 @@
+
+/* Background */
 body {
     font-family: Helvetica, sans-serif;
     margin: 0;
@@ -9,7 +11,7 @@ body {
     background-attachment: fixed; /* Keep the image fixed while scrolling */
 }
 
-
+/* Intro Section */
 h1 {
     font-size: 80px;
     color: rgb(131, 46, 152);
